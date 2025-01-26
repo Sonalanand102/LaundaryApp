@@ -14,11 +14,16 @@ This Android application allows customers to search for laundry vendors based on
 <div >
     <img src="./assets/images/1.PNG" width="300"  style="display:inline-block; margin-right:50px;" />
     <img src="./assets/images/2.PNG" width="300"  style="display:inline-block; margin-right:50px;" />
-    <img src="./assets/images/3.PNG" width="300"  style="display:inline-block;" />
+   
 </div>
 
 <div >
+     <img src="./assets/images/3.PNG" width="300"  style="display:inline-block;" />
     <img src="./assets/images/4.PNG" width="300"  style="display:inline-block; margin-right:50px; margin-right:50px;" />
+  
+</div>
+
+<div >
     <img src="./assets/images/5.PNG" width="300"  style="display:inline-block;" />
   
 </div>
