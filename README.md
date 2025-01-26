@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# Laundry Service App
+This Android application allows customers to search for laundry vendors based on their location or the services they offer. The app includes vendor details with address details, as well as the ability to switch between day and night themes for a better user experience.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Features
 
-## Get started
+- **Search for Vendors:** Customers can search for vendors based on their location or services offered (e.g., wash, dry cleaning, ironing).
+- **Location-Based Search:** The app uses the user's current location to find vendors near them.
+- **Vendor Details:** Displays vendor information including name, location, and services offered.
+- **Day/Night Theme:** The app supports a day and night mode theme for a better user experience.
+- **Vendor Services:** Each vendor offers a set of unique laundry services.
 
-1. Install dependencies
+## Screenshots
 
-   ```bash
-   npm install
-   ```
+<div >
+    <img src="./assets/images/1.PNG" width="300"  style="display:inline-block; margin-right:50px;" />
+    <img src="./assets/images/2.PNG" width="300"  style="display:inline-block; margin-right:50px;" />
+    <img src="./assets/images/3.PNG" width="300"  style="display:inline-block;" />
+</div>
 
-2. Start the app
+<div >
+    <img src="./assets/images/4.PNG" width="300"  style="display:inline-block; margin-right:50px; margin-right:50px;" />
+    <img src="./assets/images/5.PNG" width="300"  style="display:inline-block;" />
+  
+</div>
 
-   ```bash
-    npx expo start
-   ```
+## Description
 
-In the output, you'll find options to open the app in a
+Above are some screenshots of the application:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Home screen where users can search for vendors.
 
-## Get a fresh project
+- Toggle feature to change the app theme
 
-When you're ready, run:
+- List of vendors based on the user's search.
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Detailed view of a selected vendor with available services.
